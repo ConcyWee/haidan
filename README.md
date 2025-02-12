@@ -31,7 +31,7 @@
   - `*HAIDAN_LOGIN`：获取的`c_secure_login`(可选/非必要)
   - `*HAIDAN_SSL`：获取的`c_secure_ssl`(可选/非必要)
   - `*HAIDAN_TRACKER_SSL`：获取的`c_secure_tracker_ssl`(可选/非必要)
-- 任意修改`README.md`以启动`Action`。
+- 任意修改`README.md`以启动`Action`
 
 
 ## Secrets 说明
